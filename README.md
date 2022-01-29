@@ -1,700 +1,84 @@
-Contribution: 2018-07-19 00:00
+<p align="center">
+  <br>
+  <b>创造不息，交付不止</b>
+  <br>
+  <a href="https://www.yousails.com">
+    <img src="https://yousails.com/banners/brand.png" width=350>
+  </a>
+  
+  <br>
+  <a href="https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial">
+    <img src="http://ww1.sinaimg.cn/large/6d86d850gw1fao8va0fv0j208y0aw74v.jpg" width=250>
+  </a>
+  
+</p>
 
-Contribution: 2018-07-19 00:01
+## Deprecated (放弃维护)
 
-Contribution: 2018-07-19 00:02
+> Please note that is project is deprecated, Laravel5.1 Version is at https://github.com/summerblue/phphub5 
+> 
+> 此项目已放弃维护，请前往下载最新版 https://github.com/summerblue/phphub5 
 
-Contribution: 2018-07-19 00:03
 
-Contribution: 2018-07-19 00:04
+## PHPHub related projects
 
-Contribution: 2018-07-19 00:05
+You can checkout the others open source projects of PHPHub in the following list.
 
-Contribution: 2018-07-19 00:06
+* [PHPHub-iOS](https://github.com/Aufree/phphub-ios) by [@Aufree](https://github.com/Aufree)
+* [PHPHub-Server](https://github.com/NauxLiu/phphub-server) by [@NauxLiu](https://github.com/NauxLiu)
+* [PHPHub-Android](https://github.com/CycloneAxe/phphub-android) by [@Kelvin](https://github.com/CycloneAxe) and [@Xiaoxiaoyu](https://github.com/xiaoxiaoyu)
+* [PHPHub-UI](https://github.com/phphub/phphub-ui) by [@Summer](https://github.com/phphub/phphub-ui) and [@Aufree](https://github.com/aufree)
+* [PHPHub-Web](https://github.com/summerblue/phphub) by [@Summer](https://github.com/phphub/phphub-ui)
 
-Contribution: 2018-07-19 00:07
+## Introduction
 
-Contribution: 2018-07-19 00:08
 
-Contribution: 2018-07-19 00:09
 
-Contribution: 2018-07-19 00:10
+PHPHub is a `Forum project` written in `Laravel4.2`, and it is also the project build up [PHP & Laravel China community](http://www.phphub.org).
 
-Contribution: 2018-07-19 00:11
+The [phphub.org](http://phphub.org) site is entirely open source, and community involvement is not only encouraged, but required in order to ensure the future success of the project.
 
-Contribution: 2018-07-19 00:12
+ If you have any questions please don't hesitate to ask them in an issue or email me at cj [at] estgroupe.com
 
-Contribution: 2018-07-19 00:13
+[![Build Status](https://api.travis-ci.org/summerblue/phphub.svg?branch=master)](https://travis-ci.org/summerblue/phphub)
 
-Contribution: 2018-07-19 00:14
+### Screen Shots
 
-Contribution: 2018-07-24 00:00
+![](http://ww3.sinaimg.cn/large/6d86d850gw1ejre58qql6j21kw177tif.jpg)
 
-Contribution: 2018-07-24 00:01
+![](http://ww3.sinaimg.cn/large/6d86d850gw1ejre5gl0sjj21kw16z7ch.jpg)
 
-Contribution: 2018-07-24 00:02
+![](http://ww3.sinaimg.cn/large/6d86d850gw1ejre8frigyj20td0ma77d.jpg)
 
-Contribution: 2018-07-24 00:03
+## Requirements and Environment
 
-Contribution: 2018-07-24 00:04
+* PHP 5.4+
+* Laravel 4.2+
 
-Contribution: 2018-07-24 00:05
+We use Laravel Homestead for local development. Please review the [Homestead documentation](http://laravel.com/docs/homestead) to install it.
 
-Contribution: 2018-07-24 00:06
+[ 中文版本的本地环境部署见这里 见 wiki](https://github.com/summerblue/phphub/wiki/PHPhub-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2)
 
-Contribution: 2018-07-24 00:07
+[Step by Step Guide to Setting up the PHPHub Development Environment](https://github.com/summerblue/phphub/wiki/Step-by-Step-Guide-to-Setting-up-the-PHPHub-Development-Environment)
 
-Contribution: 2018-07-24 00:08
+## Thanks
 
-Contribution: 2018-07-24 00:09
+* [Laravel.io Project](https://github.com/LaravelIO/laravel.io)
+* [Twitter bootstrap](http://getbootstrap.com/)
+* [Laravel4](http://laravel.com/)
+* Inspiration come from [v2ex](http://v2ex.com/) & [ruby-china](https://ruby-china.org/).
+* So many other excelent open source project. :+1:.
 
-Contribution: 2018-07-24 00:10
+## Contributors
 
-Contribution: 2018-07-25 00:00
+[On the Project Contributors Page](https://github.com/summerblue/phphub/graphs/contributors)
 
-Contribution: 2018-07-25 00:01
+## Contributing
 
-Contribution: 2018-07-26 00:00
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-Contribution: 2018-07-26 00:01
+## License
 
-Contribution: 2018-07-27 00:00
+Copyright (c) 2014 PHPHub.org
 
-Contribution: 2018-07-27 00:01
-
-Contribution: 2018-07-27 00:02
-
-Contribution: 2018-07-27 00:03
-
-Contribution: 2018-07-27 00:04
-
-Contribution: 2018-07-27 00:05
-
-Contribution: 2018-07-27 00:06
-
-Contribution: 2018-07-27 00:07
-
-Contribution: 2018-07-27 00:08
-
-Contribution: 2018-07-27 00:09
-
-Contribution: 2018-07-27 00:10
-
-Contribution: 2018-07-27 00:11
-
-Contribution: 2018-07-27 00:12
-
-Contribution: 2018-07-27 00:13
-
-Contribution: 2018-07-27 00:14
-
-Contribution: 2018-07-30 00:00
-
-Contribution: 2018-07-30 00:01
-
-Contribution: 2018-07-30 00:02
-
-Contribution: 2018-07-30 00:03
-
-Contribution: 2018-07-30 00:04
-
-Contribution: 2018-07-30 00:05
-
-Contribution: 2018-07-30 00:06
-
-Contribution: 2018-07-30 00:07
-
-Contribution: 2018-07-30 00:08
-
-Contribution: 2018-07-30 00:09
-
-Contribution: 2018-08-01 00:00
-
-Contribution: 2018-08-01 00:01
-
-Contribution: 2018-08-01 00:02
-
-Contribution: 2018-08-01 00:03
-
-Contribution: 2018-08-01 00:04
-
-Contribution: 2018-08-02 00:00
-
-Contribution: 2018-08-02 00:01
-
-Contribution: 2018-08-02 00:02
-
-Contribution: 2018-08-02 00:03
-
-Contribution: 2018-08-02 00:04
-
-Contribution: 2018-08-02 00:05
-
-Contribution: 2018-08-02 00:06
-
-Contribution: 2018-08-02 00:07
-
-Contribution: 2018-08-06 00:00
-
-Contribution: 2018-08-06 00:01
-
-Contribution: 2018-08-06 00:02
-
-Contribution: 2018-08-06 00:03
-
-Contribution: 2018-08-06 00:04
-
-Contribution: 2018-08-06 00:05
-
-Contribution: 2018-08-06 00:06
-
-Contribution: 2018-08-06 00:07
-
-Contribution: 2018-08-06 00:08
-
-Contribution: 2018-08-06 00:09
-
-Contribution: 2018-08-06 00:10
-
-Contribution: 2018-08-06 00:11
-
-Contribution: 2018-08-06 00:12
-
-Contribution: 2018-08-06 00:13
-
-Contribution: 2018-08-06 00:14
-
-Contribution: 2018-08-09 00:00
-
-Contribution: 2018-08-09 00:01
-
-Contribution: 2018-08-09 00:02
-
-Contribution: 2018-08-09 00:03
-
-Contribution: 2018-08-09 00:04
-
-Contribution: 2018-08-09 00:05
-
-Contribution: 2018-08-09 00:06
-
-Contribution: 2018-08-09 00:07
-
-Contribution: 2018-08-09 00:08
-
-Contribution: 2018-08-09 00:09
-
-Contribution: 2018-08-09 00:10
-
-Contribution: 2018-08-09 00:11
-
-Contribution: 2018-08-15 00:00
-
-Contribution: 2018-08-15 00:01
-
-Contribution: 2018-08-15 00:02
-
-Contribution: 2018-08-15 00:03
-
-Contribution: 2018-08-15 00:04
-
-Contribution: 2018-08-15 00:05
-
-Contribution: 2018-08-15 00:06
-
-Contribution: 2018-08-15 00:07
-
-Contribution: 2018-08-17 00:00
-
-Contribution: 2018-08-17 00:01
-
-Contribution: 2018-08-17 00:02
-
-Contribution: 2018-08-17 00:03
-
-Contribution: 2018-08-21 00:00
-
-Contribution: 2018-08-21 00:01
-
-Contribution: 2018-08-21 00:02
-
-Contribution: 2018-08-21 00:03
-
-Contribution: 2018-08-21 00:04
-
-Contribution: 2018-08-21 00:05
-
-Contribution: 2018-08-21 00:06
-
-Contribution: 2018-08-21 00:07
-
-Contribution: 2018-08-22 00:00
-
-Contribution: 2018-08-22 00:01
-
-Contribution: 2018-08-22 00:02
-
-Contribution: 2018-08-22 00:03
-
-Contribution: 2018-08-22 00:04
-
-Contribution: 2018-08-22 00:05
-
-Contribution: 2018-08-22 00:06
-
-Contribution: 2018-08-22 00:07
-
-Contribution: 2018-08-22 00:08
-
-Contribution: 2018-08-22 00:09
-
-Contribution: 2018-08-22 00:10
-
-Contribution: 2018-08-22 00:11
-
-Contribution: 2018-08-23 00:00
-
-Contribution: 2018-08-24 00:00
-
-Contribution: 2018-08-24 00:01
-
-Contribution: 2018-08-24 00:02
-
-Contribution: 2018-08-24 00:03
-
-Contribution: 2018-08-27 00:00
-
-Contribution: 2018-08-27 00:01
-
-Contribution: 2018-08-27 00:02
-
-Contribution: 2018-08-27 00:03
-
-Contribution: 2018-08-27 00:04
-
-Contribution: 2018-08-27 00:05
-
-Contribution: 2018-08-27 00:06
-
-Contribution: 2018-08-30 00:00
-
-Contribution: 2018-08-30 00:01
-
-Contribution: 2018-08-31 00:00
-
-Contribution: 2018-08-31 00:01
-
-Contribution: 2018-08-31 00:02
-
-Contribution: 2018-08-31 00:03
-
-Contribution: 2018-08-31 00:04
-
-Contribution: 2018-08-31 00:05
-
-Contribution: 2018-08-31 00:06
-
-Contribution: 2018-08-31 00:07
-
-Contribution: 2018-08-31 00:08
-
-Contribution: 2018-08-31 00:09
-
-Contribution: 2018-08-31 00:10
-
-Contribution: 2018-08-31 00:11
-
-Contribution: 2018-09-04 00:00
-
-Contribution: 2018-09-04 00:01
-
-Contribution: 2018-09-04 00:02
-
-Contribution: 2018-09-04 00:03
-
-Contribution: 2018-09-04 00:04
-
-Contribution: 2018-09-04 00:05
-
-Contribution: 2018-09-04 00:06
-
-Contribution: 2018-09-04 00:07
-
-Contribution: 2018-09-04 00:08
-
-Contribution: 2018-09-04 00:09
-
-Contribution: 2018-09-04 00:10
-
-Contribution: 2018-09-10 00:00
-
-Contribution: 2018-09-10 00:01
-
-Contribution: 2018-09-10 00:02
-
-Contribution: 2018-09-10 00:03
-
-Contribution: 2018-09-10 00:04
-
-Contribution: 2018-09-10 00:05
-
-Contribution: 2018-09-10 00:06
-
-Contribution: 2018-09-10 00:07
-
-Contribution: 2018-09-10 00:08
-
-Contribution: 2018-09-10 00:09
-
-Contribution: 2018-09-11 00:00
-
-Contribution: 2018-09-11 00:01
-
-Contribution: 2018-09-11 00:02
-
-Contribution: 2018-09-11 00:03
-
-Contribution: 2018-09-14 00:00
-
-Contribution: 2018-09-14 00:01
-
-Contribution: 2018-09-14 00:02
-
-Contribution: 2018-09-14 00:03
-
-Contribution: 2018-09-14 00:04
-
-Contribution: 2018-09-14 00:05
-
-Contribution: 2018-09-14 00:06
-
-Contribution: 2018-09-14 00:07
-
-Contribution: 2018-09-14 00:08
-
-Contribution: 2018-09-14 00:09
-
-Contribution: 2018-09-14 00:10
-
-Contribution: 2018-09-17 00:00
-
-Contribution: 2018-09-17 00:01
-
-Contribution: 2018-09-17 00:02
-
-Contribution: 2018-09-17 00:03
-
-Contribution: 2018-09-17 00:04
-
-Contribution: 2018-09-17 00:05
-
-Contribution: 2018-09-17 00:06
-
-Contribution: 2018-09-17 00:07
-
-Contribution: 2018-09-17 00:08
-
-Contribution: 2018-09-17 00:09
-
-Contribution: 2018-09-17 00:10
-
-Contribution: 2018-09-17 00:11
-
-Contribution: 2018-09-18 00:00
-
-Contribution: 2018-09-18 00:01
-
-Contribution: 2018-09-18 00:02
-
-Contribution: 2018-09-18 00:03
-
-Contribution: 2018-09-18 00:04
-
-Contribution: 2018-09-18 00:05
-
-Contribution: 2018-09-18 00:06
-
-Contribution: 2018-09-18 00:07
-
-Contribution: 2018-09-18 00:08
-
-Contribution: 2018-09-18 00:09
-
-Contribution: 2018-09-18 00:10
-
-Contribution: 2018-09-19 00:00
-
-Contribution: 2018-09-19 00:01
-
-Contribution: 2018-09-19 00:02
-
-Contribution: 2018-09-19 00:03
-
-Contribution: 2018-09-19 00:04
-
-Contribution: 2018-09-20 00:00
-
-Contribution: 2018-09-20 00:01
-
-Contribution: 2018-09-20 00:02
-
-Contribution: 2018-09-20 00:03
-
-Contribution: 2018-09-20 00:04
-
-Contribution: 2018-09-20 00:05
-
-Contribution: 2018-09-20 00:06
-
-Contribution: 2018-09-20 00:07
-
-Contribution: 2018-09-20 00:08
-
-Contribution: 2018-09-20 00:09
-
-Contribution: 2018-09-20 00:10
-
-Contribution: 2018-09-20 00:11
-
-Contribution: 2018-09-20 00:12
-
-Contribution: 2018-09-20 00:13
-
-Contribution: 2018-09-21 00:00
-
-Contribution: 2018-09-26 00:00
-
-Contribution: 2018-09-26 00:01
-
-Contribution: 2018-09-26 00:02
-
-Contribution: 2018-09-26 00:03
-
-Contribution: 2018-09-26 00:04
-
-Contribution: 2018-09-26 00:05
-
-Contribution: 2018-10-01 00:00
-
-Contribution: 2018-10-01 00:01
-
-Contribution: 2018-10-01 00:02
-
-Contribution: 2018-10-01 00:03
-
-Contribution: 2018-10-01 00:04
-
-Contribution: 2018-10-01 00:05
-
-Contribution: 2018-10-01 00:06
-
-Contribution: 2018-10-01 00:07
-
-Contribution: 2018-10-03 00:00
-
-Contribution: 2018-10-03 00:01
-
-Contribution: 2018-10-05 00:00
-
-Contribution: 2018-10-05 00:01
-
-Contribution: 2018-10-05 00:02
-
-Contribution: 2018-10-05 00:03
-
-Contribution: 2018-10-05 00:04
-
-Contribution: 2018-10-05 00:05
-
-Contribution: 2018-10-05 00:06
-
-Contribution: 2018-10-09 00:00
-
-Contribution: 2018-10-09 00:01
-
-Contribution: 2018-10-09 00:02
-
-Contribution: 2018-10-09 00:03
-
-Contribution: 2018-10-09 00:04
-
-Contribution: 2018-10-09 00:05
-
-Contribution: 2018-10-09 00:06
-
-Contribution: 2018-10-09 00:07
-
-Contribution: 2018-10-15 00:00
-
-Contribution: 2018-10-15 00:01
-
-Contribution: 2018-10-15 00:02
-
-Contribution: 2018-10-15 00:03
-
-Contribution: 2018-10-15 00:04
-
-Contribution: 2018-10-15 00:05
-
-Contribution: 2018-10-15 00:06
-
-Contribution: 2018-10-15 00:07
-
-Contribution: 2018-10-22 00:00
-
-Contribution: 2018-10-22 00:01
-
-Contribution: 2018-10-22 00:02
-
-Contribution: 2018-10-22 00:03
-
-Contribution: 2018-10-22 00:04
-
-Contribution: 2018-10-22 00:05
-
-Contribution: 2018-10-22 00:06
-
-Contribution: 2018-10-22 00:07
-
-Contribution: 2018-10-22 00:08
-
-Contribution: 2018-10-22 00:09
-
-Contribution: 2018-10-22 00:10
-
-Contribution: 2018-10-22 00:11
-
-Contribution: 2018-10-22 00:12
-
-Contribution: 2018-10-22 00:13
-
-Contribution: 2018-10-22 00:14
-
-Contribution: 2018-10-26 00:00
-
-Contribution: 2018-10-26 00:01
-
-Contribution: 2018-10-26 00:02
-
-Contribution: 2018-10-26 00:03
-
-Contribution: 2018-10-26 00:04
-
-Contribution: 2018-10-26 00:05
-
-Contribution: 2018-10-26 00:06
-
-Contribution: 2018-10-26 00:07
-
-Contribution: 2018-10-26 00:08
-
-Contribution: 2018-10-26 00:09
-
-Contribution: 2018-11-08 00:00
-
-Contribution: 2018-11-08 00:01
-
-Contribution: 2018-11-08 00:02
-
-Contribution: 2018-11-08 00:03
-
-Contribution: 2018-11-12 00:00
-
-Contribution: 2018-11-12 00:01
-
-Contribution: 2018-11-12 00:02
-
-Contribution: 2018-11-12 00:03
-
-Contribution: 2018-11-12 00:04
-
-Contribution: 2018-11-12 00:05
-
-Contribution: 2018-11-12 00:06
-
-Contribution: 2018-11-12 00:07
-
-Contribution: 2018-11-15 00:00
-
-Contribution: 2018-11-15 00:01
-
-Contribution: 2018-11-15 00:02
-
-Contribution: 2018-11-15 00:03
-
-Contribution: 2018-11-15 00:04
-
-Contribution: 2018-11-15 00:05
-
-Contribution: 2018-11-15 00:06
-
-Contribution: 2018-11-15 00:07
-
-Contribution: 2018-11-15 00:08
-
-Contribution: 2018-11-15 00:09
-
-Contribution: 2018-11-15 00:10
-
-Contribution: 2018-11-15 00:11
-
-Contribution: 2018-11-15 00:12
-
-Contribution: 2018-11-15 00:13
-
-Contribution: 2018-11-16 00:00
-
-Contribution: 2018-11-16 00:01
-
-Contribution: 2018-11-16 00:02
-
-Contribution: 2018-11-16 00:03
-
-Contribution: 2018-11-16 00:04
-
-Contribution: 2018-11-16 00:05
-
-Contribution: 2018-11-16 00:06
-
-Contribution: 2018-11-19 00:00
-
-Contribution: 2018-11-19 00:01
-
-Contribution: 2018-11-19 00:02
-
-Contribution: 2018-11-19 00:03
-
-Contribution: 2018-11-19 00:04
-
-Contribution: 2018-11-19 00:05
-
-Contribution: 2018-11-19 00:06
-
-Contribution: 2018-11-19 00:07
-
-Contribution: 2018-11-19 00:08
-
-Contribution: 2018-11-23 00:00
-
-Contribution: 2018-11-23 00:01
-
-Contribution: 2018-11-23 00:02
-
-Contribution: 2018-11-23 00:03
-
-Contribution: 2018-11-23 00:04
-
-Contribution: 2018-11-23 00:05
-
-Contribution: 2018-11-26 00:00
-
-Contribution: 2018-11-26 00:01
-
-Contribution: 2018-11-26 00:02
-
-Contribution: 2018-11-26 00:03
-
-Contribution: 2018-11-28 00:00
-
-Contribution: 2018-11-28 00:01
-
+The MIT License (MIT). Please see [Opensource MIT License](http://www.opensource.org/licenses/MIT) for more information.
